@@ -10,7 +10,9 @@ Date: June 13, 2020
 
 Type: Beta
 
-Note: -Release first launch
+Note: 
+
+-Release first launch
 
 ===================================
 
@@ -20,8 +22,8 @@ Date: June 14, 2020
 
 Type: Beta
 
-Note: 	-Remove FPS monitor
+Note: 
 
-	-Change application name
-	
-===================================
+-Remove FPS monitor
+
+-Change application name
